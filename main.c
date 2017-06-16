@@ -1,7 +1,7 @@
-#include <stdio>
+#include <stdio.h>
 
-void main()
-{
-  printf("hello world!\n");
-  return;
+int main(int argc, const char * argv[]) {
+    // insert code here...
+  printf("Hello, World!\n");
+  return 0;
 }
